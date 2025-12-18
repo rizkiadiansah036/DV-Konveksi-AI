@@ -1,0 +1,7 @@
+{
+  "name": "DV Konveksi AI",
+  "description": "Asisten desain dan produksi konveksi pintar untuk pembuatan kaos, hoodie, dan seragam dengan dukungan AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
